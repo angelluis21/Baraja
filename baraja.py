@@ -26,4 +26,3 @@ def barajar(lista_de_naipes):
         lista_de_naipes[nuevas_pos] = lista_de_naipes[i]
         lista_de_naipes[i] = aux
 
-
