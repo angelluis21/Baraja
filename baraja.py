@@ -1,8 +1,8 @@
-palos = ['o', 'c', 'e', 'b']
-numeros = ['A', '2', '3', '4', '5', '6', '7', 'S', 'C', 'R']
+palos = ['corazones', 'picas', 'diamantes', 'treboles']
+numeros = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
 
 
-def creaBaraja():
+def creaBaraja(palos, numeros):
     baraja = []
     for palo in palos:
         for numero in numeros:
