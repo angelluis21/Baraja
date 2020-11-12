@@ -10,4 +10,5 @@ class Baraja():
 
 def baraja(self):
     baraja.baraja(self.mazacote)
+    
 
